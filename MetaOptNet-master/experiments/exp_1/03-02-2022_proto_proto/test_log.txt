@@ -1,0 +1,1 @@
+{'gpu': '0', 'load': 'C:\\Users\\olive\\Documents\\diplomovka\\MetaOptNet-master\\experiments\\exp_1\\best_model.pth', 'episode': 1000, 'way': 5, 'shot': 5, 'query': 15, 'network': 'ProtoNet', 'head': 'ProtoNet', 'dataset': 'miniImageNet'}
